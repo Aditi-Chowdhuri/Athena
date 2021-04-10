@@ -1,8 +1,8 @@
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:fitbit_safe/MobileAuth/phone_otp.dart';
-import 'package:fitbit_safe/bluetooth/bluetoothDetails.dart';
-import 'package:fitbit_safe/loading/splash.dart';
-import 'package:fitbit_safe/profile.dart';
+import 'package:athena/MobileAuth/phone_otp.dart';
+import 'package:athena/bluetooth/bluetoothDetails.dart';
+import 'package:athena/loading/splash.dart';
+import 'package:athena/profile.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';

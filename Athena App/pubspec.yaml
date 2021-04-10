@@ -1,4 +1,4 @@
-name: fitbit_safe
+name: athena
 description: A new Flutter application.
 
 # The following line prevents the package from being accidentally published to
@@ -64,6 +64,12 @@ flutter:
      - image/animal1.png
      - image/animal2.png
      - image/animal3.png
+     - image/animal4.png
+     - image/animal5.png
+     - image/animal6.png
+     - image/wbsos.png
+     - image/athenaColor.png
+     - image/athenacute.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.

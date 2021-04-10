@@ -1,5 +1,5 @@
-import 'package:fitbit_safe/MobileAuth/Authservice.dart';
-import 'package:fitbit_safe/profile.dart';
+import 'package:athena/MobileAuth/Authservice.dart';
+import 'package:athena/profile.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
           accentColor: Color(0xff00A9A9),
           buttonColor: Color(0xff00A9A9),
           primaryColor: Color(0xff00A9A9),
-          textTheme: GoogleFonts.alegreyaTextTheme(
+          textTheme: GoogleFonts.gfsNeohellenicTextTheme(
             Theme.of(context).textTheme,
           )),
 

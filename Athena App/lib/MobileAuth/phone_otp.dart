@@ -139,7 +139,7 @@ class _LoginPageState extends State<LoginPage> {
           appContext: context,
           pastedTextStyle: GoogleFonts.varelaRound(
               textStyle: TextStyle(
-                  color: Colors.black,
+                  color:Color(0xff704629),
                   fontSize: h*0.032,
                   fontWeight: FontWeight.bold)),
           length: 6,
@@ -169,7 +169,7 @@ class _LoginPageState extends State<LoginPage> {
           animationDuration: Duration(milliseconds: 300),
           textStyle: GoogleFonts.varelaRound(
               textStyle: TextStyle(
-                  color: Colors.black,
+                  color: Color(0xff704629),
                   fontSize: h*0.034,
                   fontWeight: FontWeight.bold)),
           backgroundColor: Color(0xfff7f7f7),
@@ -230,7 +230,7 @@ class _LoginPageState extends State<LoginPage> {
             ),
             style: GoogleFonts.varelaRound(
                 textStyle: TextStyle(
-                    color: Colors.black,
+                    color: Color(0xff704629),
                     fontSize: h*0.032,
                     fontWeight: FontWeight.bold)),
             //decoration: InputDecoration(hintText: 'Enter phone number'),
@@ -330,7 +330,7 @@ class _LoginPageState extends State<LoginPage> {
                   child: RaisedButton(
                       shape: RoundedRectangleBorder(
                           borderRadius: BorderRadius.circular(w * 0.15),
-                          side: BorderSide(color: Colors.black, width: 1)),
+                          side: BorderSide(color: Color(0xff704629), width: 1)),
                       child: Container(
                           child: Padding(
                               padding: EdgeInsets.symmetric(
