@@ -6,6 +6,12 @@
 
 Safety device with Taser for protection, hidden camera device to incriminate offenders, an app to send SOS texts and current location, and a central server for police to track multiple users' locations.
 
+## Demo Video Link:
+  <a href="https://youtu.be/dQw4w9WgXcQ">https://youtu.be/dQw4w9WgXcQ</a>
+  
+## Presentation Link:
+  <a href="https://drive.google.com/file/d/1ieNrnYE1B-ZOeZmzHxyuWVL5A0aWBhie/view?usp=sharing"> Presentation link here </a>
+  
 ## Implementation: 
 Each day, nearly 90 cases of rape are reported in India. Indian courts have a backlog of more than 100,000 pending rape cases. The conviction rate is just 32%. The low conviction rates stem from a lack of solid, tangible evidence of the incident. It takes years at an end for rape victims to get their due justice, if at all they do.
 
@@ -16,6 +22,28 @@ The user wears a neckpiece that has a pushbutton and a hidden camera in it. If t
 Additionally, we have also designed a hand-held taser, which can generate up to 400kV. We have plans to eventually optimize the design, and create a ring embedded in fingerless gloves. The tasing mechanism and charging circuit will be embedded in the glove itself, so the taser will be entirely hands-free. A push-button will be employed to deploy the taser mechanism.
 
 Also, it is very pocket-friendly, with the whole device costing around Rs 500-600. Mass production will further reduce prices. Thus it will be easily accessible to a large majority of our population.
+
+## Technology Stack:
+**Mobile:**
+1. google_maps_flutter plugin
+2. geolocator plugin
+3. cloud_firestore plugin
+4. sms_maintained plugin
+5. google_fonts plugin
+6. flutter_bluetooth_serial plugin
+**Hardware:**
+1. Arduino Nano
+2. Bluetooth
+3. Camera Module
+4. Button
+5. Battery
+6. Boost Converter
+**Website:**
+1. google_maps api
+2. firestore
+3. html5
+4. css3
+5. js
 
 ## Future Aspects:
 
