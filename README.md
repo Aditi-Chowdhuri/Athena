@@ -28,7 +28,21 @@ The current handheld Taser will be upgraded to a ring structure, to allow for di
 ## Flowchart: <br>
 <p align="center"><img src="Resources/flowchart.png" width="600" height="400"></p>
 
-
+## Hardware: <br>
+<table>
+  <tr>
+    <td> <img src="hardware/h1.jpeg" width="300" height="400"></td>
+    <td> <img src="hardware/h2.jpeg" width="300" height="400"></td>
+    <td> <img src=hardware/h3.jpeg width="300" height="400"></td>
+  </tr>
+  <tr>
+    <td> <img src="hardware/h4.jpeg" width="300" height="400"></td>
+    <td> <img src="hardware/h5.jpeg" width="300" height="400"></td>
+    <td> <img src="hardware/h6.jpeg" width="300" height="400"></td>
+  </tr>
+ 
+  
+</table>
 
 ## User Interface: <br>
 <table>
