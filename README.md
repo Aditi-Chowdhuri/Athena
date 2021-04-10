@@ -24,23 +24,24 @@ Additionally, we have also designed a hand-held taser, which can generate up to 
 Also, it is very pocket-friendly, with the whole device costing around Rs 500-600. Mass production will further reduce prices. Thus it will be easily accessible to a large majority of our population.
 
 ## Technology Stack:
-**Mobile:**
+
+### Mobile:
 1. google_maps_flutter plugin
 2. geolocator plugin
 3. cloud_firestore plugin
 4. sms_maintained plugin
 5. google_fonts plugin
 6. flutter_bluetooth_serial plugin
-<br>
-**Hardware:**
+
+### Hardware:
 1. Arduino Nano
 2. Bluetooth
 3. Camera Module
 4. Button
 5. Battery
 6. Boost Converter
-<br>
-**Website:**
+
+### Website:
 1. google_maps api
 2. firestore
 3. html5
