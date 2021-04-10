@@ -1,6 +1,6 @@
 <a href="https://hack36.com"> <img src="http://bit.ly/BuiltAtHack36" height=20px> </a>
 
-<h1><p align="center"><img src="Resources/Group 14.png" width="150" height="100"></p></h1>
+<h1><p align="center"><img src="Resources/Group 14.png" width="150" height="80"></p></h1>
 
 <p align="center"><img src="Resources/Athena.png" width="300" height="300"></p>
 
