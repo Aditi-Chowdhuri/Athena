@@ -57,5 +57,5 @@ The current handheld Taser will be upgraded to a ring structure, to allow for di
 * [**Trisha**](https://github.com/TriAnu1010) 
 * [**Sakshi Parikh**](https://github.com/Sakshi725744) 
 
-## Made at:
+## Made at
 <a href="https://hack36.com"> <img src="http://bit.ly/BuiltAtHack36" height=20px> </a>
