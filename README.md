@@ -31,6 +31,7 @@ Also, it is very pocket-friendly, with the whole device costing around Rs 500-60
 4. sms_maintained plugin
 5. google_fonts plugin
 6. flutter_bluetooth_serial plugin
+<br>
 **Hardware:**
 1. Arduino Nano
 2. Bluetooth
@@ -38,6 +39,7 @@ Also, it is very pocket-friendly, with the whole device costing around Rs 500-60
 4. Button
 5. Battery
 6. Boost Converter
+<br>
 **Website:**
 1. google_maps api
 2. firestore
@@ -53,26 +55,24 @@ The microcontroller can be replaced by a Raspberry Pi, which is a supercomputer.
 Taser:
 The current handheld Taser will be upgraded to a ring structure, to allow for discrete defense. The ring will have twin capacitors to charge the ring, along with a capacitor charging apparatus that can be used to charge the ring before exiting the house. A miniature DC boost convertor will be attached to the ring in order to step up the voltage discharged by the capacitor and generate enough voltage to tase an individual. A switch will be provided to ensure that you don’t accidentally tase someone when you shake hands or the likes.
 
-## Flowchart: <br>
+## Flowchart:
 <p align="center"><img src="Resources/flowchart.png" width="600" height="400"></p>
 
-## Hardware: <br>
+## Hardware:
 <table>
   <tr>
-    <td> <img src="hardware/h1.jpeg" width="300" height="400"></td>
-    <td> <img src="hardware/h2.jpeg" width="300" height="400"></td>
-    <td> <img src=hardware/h3.jpeg width="300" height="400"></td>
+    <td> <img src="hardware/h1.jpeg" width="300" height="300"></td>
+    <td> <img src="hardware/h2.jpeg" width="300" height="300"></td>
+    <td> <img src=hardware/h3.jpeg width="300" height="300"></td>
   </tr>
   <tr>
-    <td> <img src="hardware/h4.jpeg" width="300" height="400"></td>
-    <td> <img src="hardware/h5.jpeg" width="300" height="400"></td>
-    <td> <img src="hardware/h6.jpeg" width="300" height="400"></td>
-  </tr>
- 
-  
+    <td> <img src="hardware/h4.jpeg" width="300" height="300"></td>
+    <td> <img src="hardware/h5.jpeg" width="300" height="300"></td>
+    <td> <img src="hardware/h6.jpeg" width="300" height="300"></td>
+  </tr>  
 </table>
 
-## User Interface: <br>
+## User Interface:
 <table>
   <tr>
     <td> <img src="Resources/p0.jpeg" width="250" height="500"></td>
