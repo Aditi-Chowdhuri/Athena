@@ -17,7 +17,7 @@ Additionally, we have also designed a hand-held taser, which can generate up to 
 
 Also, it is very pocket-friendly, with the whole device costing around Rs 500-600. Mass production will further reduce prices. Thus it will be easily accessible to a large majority of our population.
 
-## Future Aspects
+## Future Aspects:
 
 Neckpiece:
 The microcontroller can be replaced by a Raspberry Pi, which is a supercomputer. This can enable us to use neural networks to generate better and sharper images or add special python functions to facilitate video streaming from the OV7670. The Raspberry Pi also has its own separate camera module, and the video can be live-streamed to a central police database or to the app, thus ensuring that prompt and appropriate aid is received. Additional functionalities can be added, although the overall price of the device will also go up quite a bit.
@@ -50,12 +50,12 @@ The current handheld Taser will be upgraded to a ring structure, to allow for di
 </table>
 <p align="center"><img src="Resources/map.jpeg" width= "700" height="400"></p>
 
-## Authors
+## Authors:
 
 * [**Aditi Chowdhuri**](https://github.com/Aditi-Chowdhuri)
 * [**Shivani Mishal**](https://github.com/shivanimishal5) 
 * [**Trisha**](https://github.com/TriAnu1010) 
 * [**Sakshi Parikh**](https://github.com/Sakshi725744) 
 
-## Made at
+## Made at:
 <a href="https://hack36.com"> <img src="http://bit.ly/BuiltAtHack36" height=20px> </a>
