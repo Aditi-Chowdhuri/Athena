@@ -93,7 +93,9 @@ The current handheld Taser will be upgraded to a ring structure, to allow for di
 </table>
 <p align="center"><img src="Resources/map.jpeg" width= "700" height="400"></p>
 
-## Authors:
+## Contributors:
+
+Team Name: **Athena**
 
 * [**Aditi Chowdhuri**](https://github.com/Aditi-Chowdhuri)
 * [**Shivani Mishal**](https://github.com/shivanimishal5) 
