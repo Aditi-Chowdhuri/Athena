@@ -7,7 +7,7 @@
 Safety device with Taser for protection, hidden camera device to incriminate offenders, an app to send SOS texts and current location, and a central server for police to track multiple users' locations.
 
 ## Demo Video Link:
-  <a href="https://youtu.be/dQw4w9WgXcQ">https://youtu.be/dQw4w9WgXcQ</a>
+  <a href="https://youtu.be/E7Y6Y07kR2o">https://youtu.be/E7Y6Y07kR2o</a>
   
 ## Presentation Link:
   <a href="https://drive.google.com/file/d/1uiJpBVBumwHZteAq4YvL4hDqP2CBV2K0/view?usp=sharing"> Presentation link here </a>
